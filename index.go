@@ -29,12 +29,19 @@ func main() {
 		fmt.Fprintf(w, `
 		<html>
 			<head>
-				<title> Sports</title>
+				<title> My Hobbies </title>
 			</head>	
 			<body>
-				<h1> Welcome to the Steelers Country</h1>
-				<p>Kordell Stewart Days are back again OH YEA</p>
-				<img src = "PointParkPioneers.png", height="250", width="250"
+				<center>
+				<h1>
+				On this page i will tell you about my hobbies</h1>
+				<p>I like to play guitar my favorite kind of guitar is a Fender Telecaster<br>
+				<img src = "https://i.ebayimg.com/images/g/gggAAOSw~ytjIeBY/s-l1200.webp", height="450", width="450" <br>
+				I like to watch sports like the steelers, penguins, and the buccs sometimes<br>
+				I build computers for my friends and basically do support for them<br>
+				I love to listen to music<br>
+				Last but not least I like to go on long walks and hangout with friends outside.
+				</p>
 			</body>
 		</html>
 		
