@@ -58,6 +58,7 @@ func main() {
 			<head>
 				<title> About Me </title>
 			</head>	
+			<center>
 			<body>
 				<h1> This page is about me! </h1>
 				<p>
