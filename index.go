@@ -36,7 +36,8 @@ func main() {
 				<h1>
 				On this page i will tell you about my hobbies</h1>
 				<p>I like to play guitar my favorite kind of guitar is a Fender Telecaster<br>
-				<img src = "https://i.ebayimg.com/images/g/gggAAOSw~ytjIeBY/s-l1200.webp", height="450", width="450" <br>
+				<center>
+				<img src = "https://i.ebayimg.com/images/g/gggAAOSw~ytjIeBY/s-l1200.webp", height="450", width="450" <br> <br> <br>
 				I like to watch sports like the steelers, penguins, and the buccs sometimes<br>
 				I build computers for my friends and basically do support for them<br>
 				I love to listen to music<br>
