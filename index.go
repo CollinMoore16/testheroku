@@ -41,6 +41,7 @@ func main() {
 				I like to watch sports like the steelers, penguins, and the buccs sometimes<br>
 				I build computers for my friends and basically do support for them<br>
 				I love to listen to music<br>
+				I also love to play video games <br>
 				Last but not least I like to go on long walks and hangout with friends outside.
 				</p>
 			</body>
@@ -55,12 +56,19 @@ func main() {
 		fmt.Fprintf(w, `
 		<html>
 			<head>
-				<title> My Website!</title>
+				<title> About Me </title>
 			</head>	
 			<body>
-				<h1> Welcome to Yizer Country</h1>
-				<p>Fun Fact! Did you know that we have 105 microbreweries?</p>
-				<img src = "https://www.lonelyplanet.com/usa/pennsylvania/pittsburgh", height="250", width="250"
+				<h1> This page is about me! </h1>
+				<p>
+				I am from a small town with less than 3000 people called Sharpsville! <br> 
+				and i grew up playing sports but due to my knees and ankles being made of jelly <br>
+				Ive since had to stop playing. I took a huge interest in computers which brought me <br>
+				down the career path of Computer Science. I have a cat named munchkin she is a orange <br> 
+				Tabby and i got her when i was in 8th grade i love that cat so much! she looks like the cat <br> 
+				pictured below!
+				</p>
+				<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dilute_orange_tabby_cat.jpg/220px-Dilute_orange_tabby_cat.jpg", height="250", width="250"
 			</body>
 		</html>
 		
